@@ -1,6 +1,5 @@
 <img src="https://media.licdn.com/dms/image/v2/D4D16AQEpDI5Z73PunQ/profile-displaybackgroundimage-shrink_350_1400/B4DZow0af_KIAc-/0/1761755644410?e=1764201600&v=beta&t=mKbR_8IDdcDcPTMZGfFmdjsAxyDvFZxs0z9MhXFz43I">
 
-<h1 align="center">Hi 👋, I'm Md. Saniul Alam</h1>
 <h3 align="center">A passionate frontend deveProfessional Website Designer & WordPress Expert Developer | Founder & CEO at BanglaEsia IT Solution | Passionate About Spreading ICT Knowledge & Digital Skills in the Worldloper from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saniulcse&label=Profile%20views&color=0e75b6&style=flat" alt="saniulcse" /> </p>
