@@ -20,7 +20,7 @@
 
 - 📫 How to reach me **shaniulalamcse@gmail.com**
 
-- 📄 Know about my experiences <a href="t.ly/Rfmov" target="blank"></a>
+- 📄 Know about my experiences <a href="t.ly/Rfmov" target="blank">My CV Click Here</a>
 
 - ⚡ Fun fact **Learning**
 
