@@ -20,7 +20,7 @@
 
 - 📫 How to reach me **shaniulalamcse@gmail.com**
 
-- 📄 Know about my experiences <a href="https://saniulcse.banglaesiait.com/" target="_blank">My CV Click Here</a>
+- 📄 Know about my experiences <a href="https://drive.google.com/file/d/10fSIDPV5i9-w7kPStWRkN-f4NQ7c9PyQ/view" target="_blank">My CV Click Here</a>
 
 - ⚡ Fun fact **Learning**
 
